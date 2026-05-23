@@ -1,0 +1,9 @@
+C:\Users\kiril\OneDrive\Desktop\lab5\lab5_task1\lab5_task1\bin\Debug\lab5_task1.exe.config
+C:\Users\kiril\OneDrive\Desktop\lab5\lab5_task1\lab5_task1\bin\Debug\lab5_task1.exe
+C:\Users\kiril\OneDrive\Desktop\lab5\lab5_task1\lab5_task1\bin\Debug\lab5_task1.pdb
+C:\Users\kiril\OneDrive\Desktop\lab5\lab5_task1\lab5_task1\obj\Debug\lab5_task1.csproj.AssemblyReference.cache
+C:\Users\kiril\OneDrive\Desktop\lab5\lab5_task1\lab5_task1\obj\Debug\lab5_task1.Properties.Resources.resources
+C:\Users\kiril\OneDrive\Desktop\lab5\lab5_task1\lab5_task1\obj\Debug\lab5_task1.csproj.GenerateResource.cache
+C:\Users\kiril\OneDrive\Desktop\lab5\lab5_task1\lab5_task1\obj\Debug\lab5_task1.csproj.CoreCompileInputs.cache
+C:\Users\kiril\OneDrive\Desktop\lab5\lab5_task1\lab5_task1\obj\Debug\lab5_task1.exe
+C:\Users\kiril\OneDrive\Desktop\lab5\lab5_task1\lab5_task1\obj\Debug\lab5_task1.pdb
